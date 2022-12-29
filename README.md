@@ -12,8 +12,6 @@
   <img align="left" alt="Osheen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 hi, i'm [Osheen aka Dobby] a passionate self-taught blockchain dev. Hey everyone! Osh here : )

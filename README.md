@@ -16,7 +16,11 @@
 
 <br />
 
-hi, i'm [Osheen aka Dobby] a passionate self-taught blockchain dev from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Osheen aka Dobby] a passionate self-taught blockchain dev. Hey everyone! Osh here : )
+Founding team and head of Product Integrations and Partnerships at Coinvise, a no-code tooling platform for Creators/ Daos to build and operate tokenised communities on Polygon and Ethereum . 
+I'm also a member of Superteam India and Vietnam, IPFS scholar '22 , Mentor at Eth Lisbon, Starnet CC , Solana Global Fellow. 
+It's indeed an honour to be here🙂! Looking forward to connect with you all!
+my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 

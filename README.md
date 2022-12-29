@@ -14,7 +14,7 @@
 
 <br />
 
-hi, i'm [Osheen aka Dobby] a passionate self-taught blockchain dev. Hey everyone! Osh here : )
+Gm! I'm Osheen aka Dobbya passionate self-taught blockchain dev.
 Founding team and head of Product Integrations and Partnerships at Coinvise, a no-code tooling platform for Creators/ Daos to build and operate tokenised communities on Polygon and Ethereum . 
 I'm also a member of Superteam India and Vietnam, IPFS scholar '22 , Mentor at Eth Lisbon, Starnet CC , Solana Global Fellow. 
 It's indeed an honour to be here🙂! Looking forward to connect with you all!
@@ -41,8 +41,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  995 Karma Points                      
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
 
+📈 my github stats
 
 
 

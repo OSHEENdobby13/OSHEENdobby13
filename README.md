@@ -14,7 +14,7 @@
 
 <br />
 
-Gm! I'm Osheen aka Dobbya passionate self-taught blockchain dev.
+Gm! I'm Osheen aka Dobby , a passionate self-taught blockchain dev.
 Founding team and head of Product Integrations and Partnerships at Coinvise, a no-code tooling platform for Creators/ Daos to build and operate tokenised communities on Polygon and Ethereum . 
 I'm also a member of Superteam India and Vietnam, IPFS scholar '22 , Mentor at Eth Lisbon, Starnet CC , Solana Global Fellow. 
 It's indeed an honour to be here🙂! Looking forward to connect with you all!
